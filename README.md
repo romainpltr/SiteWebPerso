@@ -1,6 +1,6 @@
 # Site Web Perso
 
-> To follow my bank account
+> To follow learn vuejs
 
 ## Build Setup
 
